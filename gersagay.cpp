@@ -10,3 +10,7 @@ if (gersa === gay){
 }
 asa
 buenas
+
+
+
+ok ok ok ok 
